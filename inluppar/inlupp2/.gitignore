@@ -1,0 +1,7 @@
+*.o
+tests
+prog
+.vscode
+*.gcov
+*.gcda
+*.gcno

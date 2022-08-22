@@ -1,0 +1,3 @@
+Welcome to the Symbolic Calculator!
+>> 10.0
+>> 

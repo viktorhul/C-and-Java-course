@@ -1,0 +1,21 @@
+[ ] Bigboy
+[X] Add try-catch blocks in testTemplates
+
+[X] Get @setup/init to work in HelloTest
+    - Wrong import and variables had to be declared outside of init-function scope.
+
+[] AST - integration tests. Test add(sub(log(etc)))
+    [] Testa ordnignen på paranterser
+
+[] AST-paser integration tests. Check toString() of expr vs parse of expectation.
+
+
+"Redovisa måndag 6e december SENAST"
+
+Viktor 26/11 - "Vi får se hur optimistiskt man är"
+
+Tim 01/12 - "Vi är ju definitivt klara den nionde"
+Tim 01/12 - "Jag ska bara citera mig själv"
+Viktor 01/12 - "Det är ju najs att någonting funkar"
+
+Tim (varje dag) - "Oj"
